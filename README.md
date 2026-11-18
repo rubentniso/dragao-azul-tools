@@ -1,3 +1,7 @@
-# dragao-azul-tools
 
-## mantido por Ruben S T e Fred L. ##
+<details>
+  <summary>detalhes do projeto</summary>
+
+  >>>>> mantido por Ruben S T e Fred L.
+    
+</details>
